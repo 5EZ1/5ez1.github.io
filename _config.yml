@@ -7,7 +7,7 @@ url: https://just-the-docs.github.io
 aux_links:
   Template Repository: https://github.com/5EZ1/5ez1.github.io
 
-# collections:
-#   paper_reviews:
-#     output: true
-#     permalink: /:collection/:name
+collections:
+  paper_reviews:
+    output: true
+    permalink: /:collection/:name
