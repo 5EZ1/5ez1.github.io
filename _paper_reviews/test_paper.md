@@ -1,6 +1,11 @@
 ---
-layout: post
-title: "논문 제목"
+layout: page
+title: "Review: Attention Is All You Need"
 date: 2024-08-06
-description: "논문에 대한 간단한 설명"
 ---
+
+# Review: Attention Is All You Need
+
+This paper introduces the Transformer model...
+
+[내용 계속...]
