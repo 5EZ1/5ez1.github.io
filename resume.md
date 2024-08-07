@@ -1,63 +1,58 @@
 ---
 layout: page
-title: Resume
+title: 이력서
 permalink: /resume/
 nav_order: 2
 ---
 
-# Your Name
-Email: your.email@example.com | Phone: (123) 456-7890 | Location: City, State
+# 김홍철
+이메일: gouengimasat@naver.com | 전화: 010-4743-6104 | 주소: 충청남도 아산시 탕정면 탕정면로 162-10 샤인빌 2차 402호
 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) | GitHub: [github.com/yourusername](https://github.com/yourusername)
 
-## Summary
-A brief, compelling summary of your professional profile and career objectives. Highlight your key strengths and the value you bring to potential employers.
+## 요약
+데이터 분석과 빅데이터에 열정을 가진 신입 데이터 분석가입니다. 심리학적 배경을 바탕으로 데이터를 통해 인간의 행동과 사회 현상을 이해하고자 합니다. 프로젝트 경험을 통해 데이터 분석 기술을 실제 문제 해결에 적용할 수 있는 능력을 갖추었습니다.
 
-## Skills
-- **Programming Languages:** Python, R, SQL, JavaScript
-- **Data Analysis:** Pandas, NumPy, SciPy, Matplotlib, Seaborn
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
-- **Big Data:** Hadoop, Spark
-- **Visualization:** Tableau, Power BI
-- **Version Control:** Git, GitHub
-- **Other:** Docker, AWS, Agile methodologies
+## 기술
+- **프로그래밍 언어:** Python, SQL
+- **데이터 분석:** Pandas, NumPy, Matplotlib, Seaborn
+- **머신러닝:** Scikit-learn (기초)
+- **데이터베이스:** MySQL
+- **기타:** Git, MS Office
 
-## Work Experience
+## 학력
 
-### Data Scientist | Company Name | Start Date - End Date
-- Developed and implemented machine learning models that improved prediction accuracy by X%
-- Led a team of X data analysts in a project that reduced operational costs by $X annually
-- Created automated data pipelines that increased efficiency in data processing by X%
+### 선문대학교 | 상담심리사회복지학과 | 2017.03 - 2024.02
+- 학점: 3.0/4.5
 
-### Data Analyst | Company Name | Start Date - End Date
-- Conducted complex data analysis that led to insights resulting in a X% increase in revenue
-- Designed and maintained dashboards using Tableau, providing real-time insights to stakeholders
-- Collaborated with cross-functional teams to optimize business processes, resulting in X% efficiency gain
+### 군산고등학교 | 인문계열 | 2014.03 - 2017.02
 
-## Education
+## 교육
 
-### Master of Science in Data Science | University Name | Graduation Year
-- Relevant coursework: Advanced Machine Learning, Big Data Analytics, Statistical Modeling
-- Thesis: "Title of Your Thesis"
+### 프로젝트 기반 빅데이터 분석 인재 양성과정 | 2023.06 - 2023.12
+- 데이터 분석, 기획, 시각화 등 학습
 
-### Bachelor of Science in Computer Science | University Name | Graduation Year
-- Minor in Statistics
-- GPA: X.XX/4.00
+### 파이썬(Python) 프로그래밍 입문 | 2023.04 - 2023.06
+- 파이썬 기본 문법 활용 능력 습득
 
-## Projects
+## 자격증
+- SQL 개발자(SQLD) | 한국데이터산업진흥원 | 2023.10.06
+- 데이터분석 준전문가(ADsP) | 한국데이터산업진흥원 | 2023.09.15
+- 컴퓨터활용능력 2급 | 대한상공회의소 | 2023.10.27
+- 자동차 운전면허 2종 보통 | 전북지방경찰청 | 2023.02.06
 
-### Project Name | [Link to Project]()
-Brief description of the project, technologies used, and outcomes achieved.
+## 프로젝트 경험
 
-### Project Name | [Link to Project]()
-Brief description of the project, technologies used, and outcomes achieved.
+### 데이터 분석 프로젝트 | 팀 프로젝트 | 2023.09 - 2023.11
+- 프로젝트 설명 및 역할 기술
+- 사용한 기술 및 도구: Python, Pandas, Matplotlib
+- 주요 성과: 데이터를 통한 인사이트 도출 및 팀 내 효과적인 커뮤니케이션 수행
 
-## Certifications
-- Certification Name, Issuing Organization, Year
-- Certification Name, Issuing Organization, Year
+## 기타 경험
 
-## Publications
-- Author(s). (Year). "Title of the paper." Journal Name, Volume(Issue), Page numbers.
+### 선문CARP | 인문사회대학 대표 | 2019
+- 단체 활동 및 프로그램 기획/운영
+- 데이터 기반 의사결정 프로세스 개선에 기여
 
-## Awards and Honors
-- Award Name, Issuing Organization, Year
-- Honor or Recognition, Issuing Organization, Year
+## 언어
+- 한국어 (모국어)
+- 영어 (업무 가능 수준)
