@@ -19,13 +19,13 @@ nav_order: 1
 
 다음은 제 최근 프로젝트 중 일부입니다:
 
-1. **[EIA 데이터를 활용한 발전원별 탄소 배출량 분석 시각화](https://github.com/kihwan21/k-project)**
+1. **[EIA 데이터를 활용한 발전원별 탄소 배출량 분석 시각화](https://github.com/kihwan21/k-project)**  
    EIA 공공 데이터를 Machine Learning 기술을 활용한 분석 및 시각화.
 
-2. **[감성필터](https://github.com/miniproj240701/MovieSentimentRecommendation)**
+2. **[감성필터](https://github.com/miniproj240701/MovieSentimentRecommendation)**  
    영화 리뷰 긍부정 감성 분석을 활용한 영화 추천 서비스 구현
 
-3. **[눈깜-Blink Alarm Service](https://github.com/konghyoil/nunkkam)**
+3. **[눈깜-Blink Alarm Service](https://github.com/konghyoil/nunkkam)**  
    눈 깜빡임 감지 기능을 활용한 안구 건조증 예방 어플.
 
 ## 기술 및 도구
