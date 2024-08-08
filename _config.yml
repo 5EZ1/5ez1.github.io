@@ -4,8 +4,11 @@ theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
+search_enabled: true
+
 aux_links:
   Template Repository: https://github.com/5EZ1/5ez1.github.io
+  
 
 collections:
   paper_reviews:
