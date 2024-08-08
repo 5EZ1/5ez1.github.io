@@ -9,7 +9,7 @@ nav_order: 4
 
 다음은 제 주요 데이터 분석 프로젝트와 경험에 대한 개요입니다. 각 프로젝트를 클릭하면 자세한 내용을 볼 수 있습니다.
 
-## [첫 번째 경험: EIA 데이터를 활용한 발전원별 탄소 배출량 분석 시각화 ](#first-experience)
+## [Ⅰ. EIA 데이터를 활용한 발전원별 탄소 배출량 분석](#first-experience)
 EIA 공공 데이터를 Machine Learning 기술을 활용한 분석 및 시각화.
 
 <!-- ## [두 번째 경험: 프로젝트 제목](#second-experience)
@@ -22,7 +22,7 @@ EIA 공공 데이터를 Machine Learning 기술을 활용한 분석 및 시각�
 
 ### 첫 번째 경험: 프로젝트 제목 {#first-experience}
 
-![프로젝트 이미지](C:\dev\Portfolio\5ez1.github.io\iamge\탄소중립.jpg)
+![프로젝트 이미지](iamge\탄소중립.jpg)
 
 프로젝트에 대한 간단한 설명
  EIA 공공 데이터를 Machine Learning 기술을 활용한 분석 및 시각화.
