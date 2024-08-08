@@ -7,7 +7,8 @@ nav_order: 2
 
 # 김홍철
 이메일: gouengimasat@naver.com | 주소: 전라북도 군산시 하나운로48
-LinkedIn: [linkedin.com/in/김홍철](https://www.linkedin.com/in/%ED%99%8D%EC%B2%A0-%EA%B9%80-0213572a1/) | GitHub: [github.com/5EZ1](https://github.com/5EZ1)
+LinkedIn: [linkedin.com/in/김홍철](https://www.linkedin.com/in/%ED%99%8D%EC%B2%A0-%EA%B9%80-0213572a1/) 
+GitHub: [github.com/5EZ1](https://github.com/5EZ1)
 
 ## 요약
 데이터 분석과 빅데이터에 열정을 가진 신입 데이터 분석가입니다. 심리학적 배경을 바탕으로 데이터를 통해 인간의 행동과 사회 현상을 이해하고자 합니다. 프로젝트 경험을 통해 데이터 분석 기술을 실제 문제 해결에 적용할 수 있는 능력을 갖추었습니다.
