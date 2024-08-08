@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 데이터 분석 경험
+title: Data Analysis
 permalink: /data-analysis-experience/
 nav_order: 4
 ---

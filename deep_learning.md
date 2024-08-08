@@ -1,63 +1,63 @@
 ---
 layout: page
-title: Deep Learning Experience
+title: Deep Learning
 permalink: /deep-learning-experience/
 nav_order: 6
 ---
 
-# Deep Learning Experience
+# 딥러닝 경험
 
-This page showcases my key projects and experiences in deep learning. Click on each project for more details.
+이 페이지는 제 주요 딥러닝 프로젝트와 경험을 보여줍니다. 각 프로젝트를 클릭하면 자세한 내용을 볼 수 있습니다.
 
-## [Project 1: Project Title](#project-1)
-Brief introduction to the first deep learning project.
+## [프로젝트 1: 프로젝트 제목](#project-1)
+첫 번째 딥러닝 프로젝트에 대한 간단한 소개.
 
-## [Project 2: Project Title](#project-2)
-Brief introduction to the second deep learning project.
+## [프로젝트 2: 프로젝트 제목](#project-2)
+두 번째 딥러닝 프로젝트에 대한 간단한 소개.
 
-## [Project 3: Project Title](#project-3)
-Brief introduction to the third deep learning project.
-
----
-
-### Project 1: Project Title {#project-1}
-
-![Project Image](path/to/dl_image1.jpg)
-
-- **Objective**: Brief statement of the project's goal
-- **Neural Network Architecture**: Description of the NN structure used
-- **Framework**: TensorFlow, PyTorch, etc.
-- **Key Challenges**: Any significant challenges faced and how they were overcome
-- **Results**: Summary of project outcomes and model performance
-
-[View Project Details](link-to-detailed-page-or-github-repo)
+## [프로젝트 3: 프로젝트 제목](#project-3)
+세 번째 딥러닝 프로젝트에 대한 간단한 소개.
 
 ---
 
-### Project 2: Project Title {#project-2}
+### 프로젝트 1: 프로젝트 제목 {#project-1}
 
-![Project Image](path/to/dl_image2.jpg)
+![프로젝트 이미지](path/to/dl_image1.jpg)
 
-- **Objective**: Brief statement of the project's goal
-- **Neural Network Architecture**: Description of the NN structure used
-- **Framework**: TensorFlow, PyTorch, etc.
-- **Key Challenges**: Any significant challenges faced and how they were overcome
-- **Results**: Summary of project outcomes and model performance
+- **목표**: 프로젝트의 목표에 대한 간단한 설명
+- **신경망 구조**: 사용된 신경망 구조 설명
+- **프레임워크**: TensorFlow, PyTorch 등
+- **주요 도전 과제**: 직면한 중요한 도전 과제와 해결 방법
+- **결과**: 프로젝트 결과 및 모델 성능 요약
 
-[View Project Details](link-to-detailed-page-or-github-repo)
+[프로젝트 상세 보기](link-to-detailed-page-or-github-repo)
 
 ---
 
-### Project 3: Project Title {#project-3}
+### 프로젝트 2: 프로젝트 제목 {#project-2}
 
-![Project Image](path/to/dl_image3.jpg)
+![프로젝트 이미지](path/to/dl_image2.jpg)
 
-- **Objective**: Brief statement of the project's goal
-- **Neural Network Architecture**: Description of the NN structure used
-- **Framework**: TensorFlow, PyTorch, etc.
-- **Key Challenges**: Any significant challenges faced and how they were overcome
-- **Results**: Summary of project outcomes and model performance
+- **목표**: 프로젝트의 목표에 대한 간단한 설명
+- **신경망 구조**: 사용된 신경망 구조 설명
+- **프레임워크**: TensorFlow, PyTorch 등
+- **주요 도전 과제**: 직면한 중요한 도전 과제와 해결 방법
+- **결과**: 프로젝트 결과 및 모델 성능 요약
 
-[View Project Details](link-to-detailed-page-or-github-repo)
+[프로젝트 상세 보기](link-to-detailed-page-or-github-repo)
+
+---
+
+### 프로젝트 3: 프로젝트 제목 {#project-3}
+
+![프로젝트 이미지](path/to/dl_image3.jpg)
+
+- **목표**: 프로젝트의 목표에 대한 간단한 설명
+- **신경망 구조**: 사용된 신경망 구조 설명
+- **프레임워크**: TensorFlow, PyTorch 등
+- **주요 도전 과제**: 직면한 중요한 도전 과제와 해결 방법
+- **결과**: 프로젝트 결과 및 모델 성능 요약
+
+[프로젝트 상세 보기](link-to-detailed-page-or-github-repo)
 
 ---
