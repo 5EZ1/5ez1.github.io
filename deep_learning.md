@@ -30,7 +30,7 @@ nav_order: 6
 - **주요 도전 과제**: 직면한 중요한 도전 과제와 해결 방법
 - **결과**: 프로젝트 결과 및 모델 성능 요약
 
-[프로젝트 상세 보기](link-to-detailed-page-or-github-repo)
+[프로젝트 상세 보기](https://github.com/kihwan21/k-project)
 
 ---
 
