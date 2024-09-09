@@ -35,7 +35,7 @@ Python, Matplotlib, Scikit-learn
 ⅰ 원자력 발전의 경우 적은 탄소 배출만으로 많은 에너지를 확보하기 용이하지만 폐기물 처리 등의 문제를 고려하지 못했다  
 ⅱ 도메인 지식이 없는 상태에서 분석을 하다보니 적절한 기법 적용에 어려움을 느꼈으며 사전 학습의 필요성을 인지했다
 
-[상세 분석 보기](/_data_analysis/EIA_CO2_prediction)
+[상세 분석 보기](https://5ez1.github.io/data-analysis-experience/DA/EIA_CO2_prediction.md)
 
 ---
 
