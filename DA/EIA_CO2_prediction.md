@@ -1,9 +1,11 @@
 ---
 layout: page
-title: EIA 데이터를 활용한 발전원별 CO2 배출량 예측
-permalink: /data-analysis-experience/EIA_CO2_prediction
+title: EIA CO2 Prediction
+permalink: /EIA_CO2_prediction/
 nav_order: 1
 ---
+
+
 
 # EIA 데이터를 활용한 발전원별 CO2 배출량 예측
 
