@@ -1,8 +1,6 @@
 ---
 layout: page
 title: EIA CO2 Prediction
-permalink: /EIA_CO2_prediction/
-nav_order: 1
 ---
 
 
